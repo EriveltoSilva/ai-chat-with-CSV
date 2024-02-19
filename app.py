@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-from utils import query_agent
 from langchain.llms import OpenAI
 from langchain_experimental.agents import create_pandas_dataframe_agent
 from dotenv import load_dotenv
