@@ -3,7 +3,7 @@
 [LICENSE_BADGE]: https://img.shields.io/pypi/l/ansicolortags.svg
 
 
-<h1 align="center">AI Chat with CVS</h1>
+<h1 align="center">AI Chat with CSV</h1>
 
 ![PYTHON][PYTHON_BADGE]
 ![LICENSE][LICENSE_BADGE]
@@ -68,7 +68,7 @@ Ensure you have the following prerequisites installed:
 - Clone the project repository from GitHub:
 
 ```bash
-git clone https://github.com/EriveltoSilva/chatCVS.git
+git clone https://github.com/EriveltoSilva/ai-chat-with-CSV.git
 ```
 
 
@@ -117,7 +117,7 @@ Special thanks to the project contributor:
 
 To contribute to this project, follow these steps:
 
-1. `git clone https://github.com/EriveltoSilva/chatCVS.git`
+1. `git clone https://github.com/EriveltoSilva/ai-chat-with-CSV.git`
 2. `git checkout -b feature/NAME`
 3. Follow commit patterns
 4. Open a Pull Request explaining the problem solved or feature made. If applicable, include screenshots of visual modifications and wait for the review!
