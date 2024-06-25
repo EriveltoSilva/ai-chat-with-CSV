@@ -104,7 +104,7 @@ Special thanks to the project contributor:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/125351173?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+        <img src="https://avatars.githubusercontent.com/u/125351173?v=4" width="100px;" alt="Erivelto Silva Profile Picture"/><br>
         <sub>
           <b>Erivelto Silva</b>
         </sub>
