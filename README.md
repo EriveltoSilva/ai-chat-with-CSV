@@ -22,6 +22,7 @@
   <li><a href="#results">Results</a></li>
   <li><a href="#projectVideo">Project Video</a></li>
   <li><a href="#collaborators">Collaborators</a></li>
+  <li><a href="#license">License</a></li>
 </ul>
 
 <p align="center">
@@ -122,6 +123,6 @@ To contribute to this project, follow these steps:
 3. Follow commit patterns
 4. Open a Pull Request explaining the problem solved or feature made. If applicable, include screenshots of visual modifications and wait for the review!
 
-<h2 id="contribute">📫 License</h2>
+<h2 id="license">📫 License</h2>
 
 This project is licensed under the MIT License. See the <a href="./LICENSE">LICENSE file</a> for more information.
